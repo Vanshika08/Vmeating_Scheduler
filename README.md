@@ -1,0 +1,2 @@
+# Vmeating_Scheduler
+Vmeating_Scheduler helps you schedule meetings without  the back and forth emails. We take the work out of connecting with others. So You cant accomplish more. Set up is easy let's know you availability preference and It will do the works for you. This web based application allows people to define their available slots on a day , i.e they can set their schedules and other can easily get their availability schedules by searching their names for the booking purpose.
